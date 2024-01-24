@@ -126,7 +126,7 @@ If you'd like to contribute, please follow these guidelines:
 
 ## Links
 
-- **Deployed Application :** []
+- **Deployed Application :** [https://amazing-longma-7cb4b8.netlify.app/]
 
 ## Contact-Me
 
