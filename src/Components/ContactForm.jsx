@@ -37,6 +37,7 @@ const ContactForm = () => {
       {({ isSubmitting }) => (
         <Form
           name="contact"
+          action="/pages/success"
           method="POST"
           netlify-honeypot="bot-field"
           data-netlify="true"
