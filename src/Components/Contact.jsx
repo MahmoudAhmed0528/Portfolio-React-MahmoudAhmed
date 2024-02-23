@@ -2,14 +2,6 @@ import React from "react";
 import ContactForm from "./ContactForm";
 
 function Contact() {
-  const handleFormSubmit = (values, { resetForm }) => {
-    // Handle form submission logic here
-    console.log(values);
-
-    // Reset the form after submission
-    resetForm();
-  };
-
   return (
     <section id="reach-out" className="contact">
       <div className="container">
@@ -26,7 +18,7 @@ function Contact() {
                 <br />
                 Email:{" "}
                 <a href="mailto:mahmoud.elbahe@gmail.com">
-                  mahmoud.elbahe@gmail
+                  mahmoud.elbahe@gmail.com
                 </a>
               </address>
               <p>
@@ -39,7 +31,7 @@ function Contact() {
           <div className="col-md-6">
             <div className="contact-form">
               <h3>Contact Me</h3>
-              <ContactForm onSubmit={handleFormSubmit} />
+              <ContactForm />
             </div>
           </div>
         </div>
