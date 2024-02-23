@@ -25,8 +25,8 @@ function Contact() {
                 Phone: <a href="tel:614.422.1474">614.822.1474</a>
                 <br />
                 Email:{" "}
-                <a href="mailto:mahmood.adel@hotmail.com">
-                  mahmood.adel@hotmail.com
+                <a href="mailto:mahmoud.elbahe@gmail.com">
+                  mahmoud.elbahe@gmail
                 </a>
               </address>
               <p>
