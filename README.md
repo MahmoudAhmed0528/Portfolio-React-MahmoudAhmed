@@ -109,7 +109,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/MahmoudAhmed0528/MahmoudAhmed-Portfolio.git`
+1. Clone the repository: `git clone https://github.com/MahmoudAhmed0528/Portfolio-React-MahmoudAhmed`
 2. Navigate to the project directory: `cd MahmoudAhmed-Portfolio`
 3. Install dependencies: `npm install`
 
@@ -130,7 +130,7 @@ If you'd like to contribute, please follow these guidelines:
 
 ## Contact-Me
 
-- Email: [mahmood.adel@hotmail.com](mailto:mahmood.adel@hotmail.com)
+- Email: [mahmoud.elbahe@gmail.com](mahmoud.elbahe@gmail.com)
 - Phone: [614.822.1474](tel:614.822.1474)
 
 ## License
