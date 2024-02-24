@@ -4,6 +4,22 @@ import Project from "./Project";
 const Portfolio = () => {
   const projects = [
     {
+      title: "Book Search Engine GraphQL",
+      githubLink:
+        "https://github.com/MahmoudAhmed0528/Book-Search-Engine-GraphQL",
+      deployedLink: "https://hidden-lake-30002-c49edad008b9.herokuapp.com/",
+      walkthroughVideo: "",
+      backgroundColor: "",
+    },
+    {
+      title: "Book Search Engine RESTful-API",
+      githubLink:
+        "https://github.com/MahmoudAhmed0528/Book-Search-Engine-RESTful-API",
+      deployedLink: "",
+      walkthroughVideo: "",
+      backgroundColor: "",
+    },
+    {
       title: "Social Network API-NoSQL",
       githubLink:
         "https://github.com/MahmoudAhmed0528/Social-Network-API-NoSQL",

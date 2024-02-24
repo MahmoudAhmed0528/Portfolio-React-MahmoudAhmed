@@ -1,7 +1,7 @@
 import React from "react";
 import ResumeSection from "./ResumeSection";
 import { BsCloudDownload } from "react-icons/bs";
-import MahmoudAhmedResumePDF from "../assets/Mahmoud-Ahmed-Resume.pdf";
+// import MahmoudAhmedResumePDF from "../assets/Mahmoud-Ahmed-Resume.pdf";
 
 function Resume() {
   const frontendTech = [
@@ -33,7 +33,8 @@ function Resume() {
     "State Management",
   ];
 
-  const downloadResumeLink = MahmoudAhmedResumePDF;
+  const downloadResumeLink =
+    "https://docs.google.com/document/d/1gtXbEnLndakSUMQuVRsno-t5Wp2W1R_HvQY2GM-Cr7g/edit?usp=sharing";
 
   return (
     <div className="container">
