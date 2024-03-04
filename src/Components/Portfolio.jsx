@@ -4,6 +4,13 @@ import Project from "./Project";
 const Portfolio = () => {
   const projects = [
     {
+      title: "Recipe-finder",
+      githubLink: "https://github.com/MahmoudAhmed0528/Recipe-finder",
+      deployedLink: "",
+      walkthroughVideo: "",
+      backgroundColor: "",
+    },
+    {
       title: "Book Search Engine GraphQL",
       githubLink:
         "https://github.com/MahmoudAhmed0528/Book-Search-Engine-GraphQL",
@@ -38,9 +45,8 @@ const Portfolio = () => {
     {
       title: "Tech Blog",
       githubLink: "https://github.com/MahmoudAhmed0528/Tech-Blog",
-      deployedLink:
-        "https://hidden-scrubland-77410-e4c3a6a52eee.herokuapp.com/]",
-      walkthroughVideo: "https://www.youtube.com/watch?v=OCT335K5VYk",
+      deployedLink: "https://hidden-scrubland-77410-e4c3a6a52eee.herokuapp.com",
+      walkthroughVideo: "https://www.youtube.com/watch?v=Q6VdEnr62mk",
     },
     {
       title: "Employee-Tracker",
