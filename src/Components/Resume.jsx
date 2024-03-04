@@ -10,6 +10,7 @@ function Resume() {
     "JavaScript",
     "React",
     "Bootstrap",
+    "Tailwindcss",
     "jQuery",
     "RESTful APIs",
   ];
