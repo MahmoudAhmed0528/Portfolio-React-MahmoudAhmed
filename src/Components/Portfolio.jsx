@@ -6,7 +6,7 @@ const Portfolio = () => {
     {
       title: "Recipe-finder",
       githubLink: "https://github.com/MahmoudAhmed0528/Recipe-finder",
-      deployedLink: "",
+      deployedLink: "https://salty-castle-87837-b58145d18502.herokuapp.com/",
       walkthroughVideo: "",
       backgroundColor: "",
     },
@@ -22,7 +22,8 @@ const Portfolio = () => {
       title: "Book Search Engine RESTful-API",
       githubLink:
         "https://github.com/MahmoudAhmed0528/Book-Search-Engine-RESTful-API",
-      deployedLink: "",
+      deployedLink:
+        "https://enigmatic-caverns-73160-ebef579134e1.herokuapp.com/",
       walkthroughVideo: "",
       backgroundColor: "",
     },
