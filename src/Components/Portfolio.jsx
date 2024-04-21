@@ -7,7 +7,7 @@ const Portfolio = () => {
       title: "Recipe-finder",
       githubLink: "https://github.com/MahmoudAhmed0528/Recipe-finder",
       deployedLink: "https://salty-castle-87837-b58145d18502.herokuapp.com/",
-      walkthroughVideo: "",
+      walkthroughVideo: "https://youtu.be/R4B4Kh5w38I",
       backgroundColor: "",
     },
     {
