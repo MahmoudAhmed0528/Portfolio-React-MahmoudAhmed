@@ -4,6 +4,13 @@ import Project from "./Project";
 const Portfolio = () => {
   const projects = [
     {
+      title: "Electronics-shop",
+      githubLink: "https://github.com/MahmoudAhmed0528/Electronics-Shop",
+      deployedLink: "",
+      walkthroughVideo: "",
+      backgroundColor: "",
+    },
+    {
       title: "Recipe-finder",
       githubLink: "https://github.com/MahmoudAhmed0528/Recipe-finder",
       deployedLink: "https://salty-castle-87837-b58145d18502.herokuapp.com/",
