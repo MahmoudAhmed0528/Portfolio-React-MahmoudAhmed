@@ -6,7 +6,7 @@ const Portfolio = () => {
     {
       title: "Electronics-shop",
       githubLink: "https://github.com/MahmoudAhmed0528/Electronics-Shop",
-      deployedLink: "",
+      deployedLink: "https://fierce-fortress-52072-aabcea5a43a3.herokuapp.com/",
       walkthroughVideo: "",
       backgroundColor: "",
     },
